@@ -1,0 +1,81 @@
+texto,categoria
+Não consigo gerar o boleto da mensalidade,Financeiro
+Meu pagamento ainda não apareceu no sistema,Financeiro
+A cobrança deste mês está incorreta,Financeiro
+Como consigo a segunda via do boleto,Financeiro
+Preciso parcelar uma dívida acadêmica,Financeiro
+A mensalidade foi paga duas vezes,Financeiro
+Quero consultar o valor da mensalidade,Financeiro
+O desconto da bolsa não foi aplicado,Financeiro
+Meu comprovante de pagamento foi rejeitado,Financeiro
+Como emitir o recibo da mensalidade,Financeiro
+Solicitei reembolso de um pagamento,Financeiro
+O pix da mensalidade não foi reconhecido,Financeiro
+Estou com pendência financeira,Financeiro
+Posso alterar a data de vencimento,Financeiro
+O boleto está com código inválido,Financeiro
+Preciso negociar os débitos do semestre,Financeiro
+A fatura apresentou valor duplicado,Financeiro
+Não localizei as taxas de pagamento,Financeiro
+A cobrança do laboratório veio errada,Financeiro
+Quero verificar a situação dos meus débitos,Financeiro
+Preciso renovar minha matrícula para o próximo semestre,Matrícula
+Minha rematrícula ainda está pendente,Matrícula
+Como alterar as disciplinas da matrícula,Matrícula
+Quero solicitar trancamento do semestre,Matrícula
+O sistema não mostra minha turma matriculada,Matrícula
+Preciso cancelar uma disciplina optativa,Matrícula
+Como fazer matrícula em disciplina especial,Matrícula
+Solicito inclusão de uma disciplina,Matrícula
+Minha grade de disciplinas está incompleta,Matrícula
+Posso mudar para outra turma,Matrícula
+Quero verificar minha situação de matrícula,Matrícula
+O prazo de rematrícula já terminou,Matrícula
+Preciso corrigir meu vínculo acadêmico,Matrícula
+Como solicitar aproveitamento de disciplinas,Matrícula
+Não consigo confirmar a matrícula,Matrícula
+A disciplina não aparece na minha grade,Matrícula
+Preciso mudar o turno da disciplina,Matrícula
+Onde faço o trancamento de matrícula,Matrícula
+A secretaria não confirmou minha rematrícula,Matrícula
+Quero retirar uma matéria do semestre,Matrícula
+Preciso entregar meu termo de estágio,Estágio
+Onde assino o convênio de estágio,Estágio
+A empresa pediu o termo de compromisso,Estágio
+Como enviar meu relatório de estágio,Estágio
+Preciso falar com o supervisor de estágio,Estágio
+O período de estágio foi alterado,Estágio
+Minha ficha de acompanhamento não foi validada,Estágio
+Como registrar as horas de estágio,Estágio
+Quero solicitar orientação do estágio obrigatório,Estágio
+Falta a assinatura do concedente no termo,Estágio
+Preciso emitir declaração de estágio,Estágio
+Como cadastrar uma empresa concedente,Estágio
+O relatório final do estágio está pendente,Estágio
+Quero agendar avaliação com orientador de estágio,Estágio
+Como faço aditivo no contrato de estágio,Estágio
+Minha carga horária de estágio foi recusada,Estágio
+Não encontro o formulário de estágio,Estágio
+Preciso homologar o plano de atividades,Estágio
+O termo de compromisso ainda não foi aceito,Estágio
+Solicito revisão do diário de estágio,Estágio
+Não consigo entrar no portal acadêmico,Suporte
+Minha senha de acesso foi bloqueada,Suporte
+O aplicativo fecha ao abrir a tela inicial,Suporte
+A página retorna erro de autenticação,Suporte
+Preciso redefinir a senha do sistema,Suporte
+O portal não carrega no meu computador,Suporte
+Recebo código de erro quando faço login,Suporte
+A autenticação de dois fatores falhou,Suporte
+Não recebo o código de acesso por email,Suporte
+O sistema mostra sessão expirada,Suporte
+A conta foi temporariamente suspensa,Suporte
+O aplicativo não sincroniza os dados,Suporte
+A plataforma apresenta tela em branco,Suporte
+Não consigo recuperar a conta,Suporte
+O botão de enviar não funciona,Suporte
+O acesso pelo celular parou de funcionar,Suporte
+A página de login fica carregando,Suporte
+Tenho problema técnico com o navegador,Suporte
+O sistema trava ao anexar arquivo,Suporte
+Meu usuário não está sendo reconhecido,Suporte
